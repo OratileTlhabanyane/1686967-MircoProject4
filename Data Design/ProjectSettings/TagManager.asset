@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlantOne
+  - Enemy
+  - Rain
+  - Screenshake
+  - ScreenShake
+  - Gate1
+  - Gate2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background_1
+    uniqueID: 3999738063
+    locked: 0
+  - name: Foreground_2
+    uniqueID: 479449061
+    locked: 0
+  - name: Players
+    uniqueID: 516512115
+    locked: 0
+  - name: Bacteria
+    uniqueID: 148969153
+    locked: 0
